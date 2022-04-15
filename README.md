@@ -6,6 +6,8 @@
 <h3>Mutatuin</h3>
 <ul>
   <li>creatNotification<span>Create 1 notification </span></li>
+  <li><img src="https://user-images.githubusercontent.com/68454625/163559555-3aad3fc7-d958-4c29-817f-62f19a4215c8.png" />
+</li>
     <li>createAuthor<span>Create 1 author </span></li>
 </ul>
 
