@@ -5,9 +5,9 @@
 
 <h3>Mutatuin</h3>
 <ul>
-  <li>creatNotification<span>Create 1 notification </span></li>
+  <li>creatNotification<span>&nbspCreate 1 notification </span></li>
  <img src="https://user-images.githubusercontent.com/68454625/163559625-eac3f8b1-fc93-49e9-86e6-e205411ac30c.png" />
-    <li>createAuthor<span>Create 1 author </span></li>
+    <li>createAuthor<span>&nbspCreate 1 author </span></li>
     <img src="https://user-images.githubusercontent.com/68454625/163559784-eaa18988-0283-4bfb-afb4-17799c3f48ee.png" />
 </ul>
 
